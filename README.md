@@ -43,23 +43,28 @@ NOTE:- I downloaded the images from Google,if you have any query or problem i ca
 python detect.py --image girl1.jpg<br>
 Gender: Female<br>
 Age: 25-32 years<br>
+<br><br>
 
 ##
 
 ![Detecting age and gender girl1](https://user-images.githubusercontent.com/75518471/142718398-4c7300fe-e673-49ab-90f1-fdccf876f825.png)
-
-
+<br><br>
+##
+<br><br>
 #
 python detect.py --image kid1.jpg<br>
 Gender: Male<br>
 Age: 4-6 years<br>
-
+<br><br>
 ![Detecting age and gender kid1](https://user-images.githubusercontent.com/75518471/142718408-f92df664-15bc-494c-9089-34ec0041d462.png)
  
-
+ <br><br>
+ ##
+ 
 python detect.py --image woman1.jpg<br>
 Gender: Female<br>
 Age: 38-43 years<br>
+<br><br>
 ![Detecting age and gender woman1](https://user-images.githubusercontent.com/75518471/142718410-a4f4d587-2602-495e-96e3-b6c1913cd414.png)
 
 ## That's it

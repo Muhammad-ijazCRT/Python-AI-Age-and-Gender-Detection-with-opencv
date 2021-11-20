@@ -40,9 +40,11 @@ Open your Command Prompt or Terminal and change directory to the folder where al
 ##
 ## Working:
 NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose
-python detect.py --image girl1.jpg
-Gender: Female
-Age: 25-32 years
+python detect.py --image girl1.jpg<br>
+
+Gender: Female<br>
+
+Age: 25-32 years<br>
 
 ##
 
@@ -50,9 +52,9 @@ Age: 25-32 years
 
 
 #
-python detect.py --image kid1.jpg
-Gender: Male
-Age: 4-6 years
+python detect.py --image kid1.jpg<br>
+Gender: Male<br>
+Age: 4-6 years<br>
 
 ![Detecting age and gender kid1](https://user-images.githubusercontent.com/75518471/142718408-f92df664-15bc-494c-9089-34ec0041d462.png)
  

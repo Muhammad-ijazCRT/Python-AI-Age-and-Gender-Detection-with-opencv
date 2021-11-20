@@ -16,9 +16,9 @@ For this python project, I had used the Adience dataset; the dataset is availabl
 
 #### Additional Python Libraries Required :
 - OpenCV
--- pip install opencv-python
+- - pip install opencv-python
 - argparse
--- pip install opencv-python
+- - pip install argparse
 
 
 ------------

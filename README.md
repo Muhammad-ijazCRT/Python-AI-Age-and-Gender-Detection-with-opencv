@@ -40,24 +40,26 @@ Open your Command Prompt or Terminal and change directory to the folder where al
 ##
 ## Working:
 NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose
->python detect.py --image girl1.jpg
+python detect.py --image girl1.jpg
 Gender: Female
 Age: 25-32 years
+
+##
 
 ![Detecting age and gender girl1](https://user-images.githubusercontent.com/75518471/142718398-4c7300fe-e673-49ab-90f1-fdccf876f825.png)
 
 
->python detect.py --image kid1.jpg
+#
+python detect.py --image kid1.jpg
 Gender: Male
 Age: 4-6 years
 
 ![Detecting age and gender kid1](https://user-images.githubusercontent.com/75518471/142718408-f92df664-15bc-494c-9089-34ec0041d462.png)
  
 
->python detect.py --image woman1.jpg
+python detect.py --image woman1.jpg
 Gender: Female
 Age: 38-43 years
 ![Detecting age and gender woman1](https://user-images.githubusercontent.com/75518471/142718410-a4f4d587-2602-495e-96e3-b6c1913cd414.png)
 
-##
-`${copyCodeBlock('<div>Thundercats</div>')}`
+## That's it

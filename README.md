@@ -16,13 +16,10 @@ For this python project, I had used the Adience dataset; the dataset is availabl
 
 #### Additional Python Libraries Required :
 - OpenCV
-- - pip install opencv-python
+ - pip install opencv-python
 - argparse
-- - pip install argparse
-
-
-------------
-
+ - pip install argparse
+ ##
 #### The contents of this Project :
 ope- ncv_face_detector.pbtxt
 - opencv_face_detector_uint8.pb
@@ -32,10 +29,7 @@ ope- ncv_face_detector.pbtxt
 - gender_net.caffemodel
 - a few pictures to try the project on
 - detect.py
-
-
-------------
-
+##
 Usage :
 Download - my Repository
 
@@ -43,10 +37,7 @@ Open your Command Prompt or Terminal and change directory to the folder where al
 - Detecting Gender and Age of face in Image Use Command :
       python detect.py
 - Press Ctrl + C to stop the program execution.
-
-
-------------
-
+##
 ## Working:
 NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose
 ```python
@@ -63,11 +54,7 @@ you will find:
 >python detect.py --image kid1.jpg
 Gender: Male
 Age: 4-6 years
-
-
-------------
-
-
+##
 #img 
 
 >python detect.py --image woman1.jpg
@@ -75,11 +62,5 @@ Gender: Female
 Age: 38-43 years
 
 # img
-
-
-------------
-
-### follow
-[:fa-stack-overflow:](httphttps://www.linkedin.com/in/muhammad-ijaz-544a12206/:// ":fa-stack-overflow:") 
-
+##
 

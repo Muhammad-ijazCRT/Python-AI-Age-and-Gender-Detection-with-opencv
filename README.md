@@ -57,11 +57,9 @@ Age: 4-6 years<br>
 ![Detecting age and gender kid1](https://user-images.githubusercontent.com/75518471/142718408-f92df664-15bc-494c-9089-34ec0041d462.png)
  
 
-python detect.py --image woman1.jpg
-
-Gender: Female
-
-Age: 38-43 years
+python detect.py --image woman1.jpg<br>
+Gender: Female<br>
+Age: 38-43 years<br>
 ![Detecting age and gender woman1](https://user-images.githubusercontent.com/75518471/142718410-a4f4d587-2602-495e-96e3-b6c1913cd414.png)
 
 ## That's it

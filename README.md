@@ -1,7 +1,7 @@
 # Age-and-Gender-Detection-with-opencv  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter">
 
 ### Objective :
-<br><br>![face and gender with Ai](https://user-images.githubusercontent.com/75518471/142719031-f424a5ac-d943-47fa-9b9e-df044caf1ef5.jpg)
+![face and gender with Ai](https://user-images.githubusercontent.com/75518471/142719031-f424a5ac-d943-47fa-9b9e-df044caf1ef5.jpg)
 
 To build a gender and age detector that can approximately guess the gender and age of the person (face) in a picture or through webcam.
 ##
